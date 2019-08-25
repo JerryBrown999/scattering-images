@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:cc="http://web.resource.org/cc/"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     version="1.1" baseProfile="full" width="24px" height="24px" viewBox="0 0 300 300"
+     preserveAspectRatio="xMidYMid meet" id="svg_document" style="zoom: 1;">
+     <!-- Created with macSVG - https://macsvg.org/ - https://github.com/dsward2/macsvg/ -->
+     <title id="svg_document_title">Radiate.svg</title>
+     <defs id="svg_document_defs"></defs>
+        <g id="main_group">
+        <circle stroke="#000000" id="circle1" stroke-width="3px" cy="150px" fill="#ffffff" r="0px" cx="150px" transform=""></circle>
+        <circle stroke="#000000" transform="" id="circle2" stroke-width="3px" cy="132px" fill="#ffffff" r="25px" cx="137px"></circle>
+        <polygon points="96,105 81,57 74,63 53,26 52,42 27,17 59,60 38,62 73,73" stroke="#000000" id="polygon1" stroke-width="3px" fill="#ffffff" transform=""></polygon>
+        <polygon points="125,92 138,62 130,69 141,27 124,44 120,14 114,53 127,55" stroke="#000000" id="polygon2" stroke-width="3px" fill="#ffffff" transform=""></polygon>
+        <polygon points="164,98 175,50 184,71 190,22 195,47 242,23 198,65 209,75 175,77" stroke="#000000" id="polygon3" stroke-width="3px" fill="#ffffff" transform=""></polygon>
+        <polygon points="85,127 50,103 62,124 22,121 54,132 48,144 72,132 " stroke="#000000" id="polygon4" stroke-width="3px" fill="#ffffff" transform=""></polygon>
+        <polygon points="169,137 190,115 197,132 225,111 218,131 266,145 " stroke="#000000" id="polygon5" stroke-width="3px" fill="#ffffff" transform=""></polygon>
+        <polygon points="94,153 63,153 69,169 31,176 77,181 21,215 89,193 102,174 82,169" stroke="#000000" id="polygon6" stroke-width="3px" fill="#ffffff" transform=""></polygon>
+        <polygon points="128,166 115,213 132,204 136,254 147,233 178,267 142,202 190,215 139,188" stroke="#000000" id="polygon7" stroke-width="3px" fill="#ffffff" transform=""></polygon>
+        <polygon points="176,160 214,170 199,176 271,197 248,197 252,214 206,190 206,201" stroke="#000000" id="polygon8" stroke-width="3px" fill="#ffffff" transform=""></polygon>
+        </g>
+</svg>
