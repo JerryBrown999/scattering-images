@@ -1,6 +1,8 @@
 # scattering-images
 
-![screen shot](/img/screenshot.png)
+![screen shot](/img/screenshot.png) . 
+
+GithubPage: https://jerrybrown999.github.io/scattering-images/
 
 ## Overview
 
@@ -92,4 +94,3 @@ sctNS.elsjsn = [{
 ...
 ];
 ```
-GithubPage: https://jerrybrown999.github.io/scattering-images/
