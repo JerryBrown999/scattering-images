@@ -4,11 +4,11 @@
 
 ## Overview
 
-* Creates a cluster of \<img\> elements using properties defined in a javascript array of objects in `defineScatterImages.js` and appends them to the HTML \<div\> with id 'scatter-images-container' defined in `index.html`.
+* Creates a cluster of \<img\> elements using properties defined in a javascript array of objects in `define-scatter-images.js` and appends them to the HTML \<div\> with id 'scatter-images-container' defined in `index.html`.
 
 * The CSS for 'scatter-images-container' should be positioned, e.g. `position: relative;`, so inserted \<img\> elements can be explicitly positioned in container.
 
-* The cluster of \<img\>s is animated by the javascript file 'animateScatterImages.js`.
+* The cluster of \<img\>s is animated by the javascript file 'animate-scatter-images.js`.
 
 * The container listens for mouse and touch movement.
 
