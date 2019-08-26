@@ -35,7 +35,7 @@ https://help.github.com/en/articles/cloning-a-repository
 
 ```
 
-2. Copy defineScatterImages.js and animateScatterImages.js to your project (mine is in "./js").  
+2. Copy define-scatter-images.js and animate-scatter-images.js to your project (mine is in "./js").  
 You will need the paths for the images you use (mine are in "./img/svgs").  
 In your HTML page include a \<div\> tag with unique Id and include script src tags for the javascript files:
 
