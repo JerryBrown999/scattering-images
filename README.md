@@ -42,8 +42,8 @@ In your HTML page include a \<div\> tag with unique Id and include script src ta
 ```javascript
     <div id="scatter-images-container"></div>
 
-    <script src="js/defineScatterImages.js"></script>  
-    <script src="js/animateScatterImages.js"></script>
+    <script src="js/define-scatter-images.js"></script>  
+    <script src="js/animate-scatter-images.js"></script>
 ```
 
 3. In your CSS file style the \<div\>:  
