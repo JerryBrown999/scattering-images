@@ -62,7 +62,7 @@ In your HTML page include a \<div\> tag with unique Id and include script src ta
     }`  
 ```
 
-4. Edit `defineScatterImages.js` so that:  
+4. Edit `define-scatter-images.js` so that:  
 
 - `sctNS.containerID = 'scatter-images-container'; // must match HTML element`
 
